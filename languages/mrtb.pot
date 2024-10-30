@@ -1,0 +1,48 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: 喵容工具箱 Pro\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-06-02 08:58+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.0; wp-5.4.1"
+
+#: src/core/core.php:28
+msgid "per minute"
+msgstr ""
+
+#: src/core/core.php:38
+msgid "Half a day"
+msgstr ""
+
+#: src/core/core.php:49
+msgid "settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Miaoroom ToolBox"
+msgstr ""
+
+#. Description of the plugin
+msgid "喵容工具箱提供诸多实用功能，高速聚合图床外链加速图片可以极大节省CDN费用，以及诸多优化网站设置，赋能中小企业与个人站长。"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.miaoroom.com/course/wordpress-plugin/miaoroom-toolbox.html"
+msgstr ""
+
+#. Author of the plugin
+msgid "miaoroom"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.miaoroom.com/"
+msgstr ""
